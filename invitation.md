@@ -4,4 +4,4 @@
 | email |
 | ------------- |
 | dmitry.meshkov@iohk.io|
-
+| rockinrats@yandex.ru|
