@@ -4,5 +4,6 @@
 | email |
 | ------------- |
 | dmitry.meshkov@iohk.io|
-! ciscoff@mail.ru|
+| ciscoff@mail.ru|
 | rockinrats@yandex.ru|
+| lks.ovechkin@yandex.ru|
