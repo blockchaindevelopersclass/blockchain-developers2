@@ -9,5 +9,6 @@
 | xcat@bk.ru|
 | gshiporin@gmail.com|
 | lks.ovechkin@yandex.ru|
+| dimos-d@yandex.ru|
 | sl888amg@gmail.com |
 | skor33393@yandex.ru|
