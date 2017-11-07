@@ -9,3 +9,4 @@
 | xcat@bk.ru|
 | gshiporin@gmail.com|
 | lks.ovechkin@yandex.ru|
+| dimos-d@yandex.ru|
