@@ -21,3 +21,4 @@
 | valentin.po@gmail.com|
 | mpuzyrev@gmail.com|
 | redfoer@gmail.com|
+| bc.dev2018@gmail.com|
