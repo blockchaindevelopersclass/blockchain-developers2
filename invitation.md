@@ -23,3 +23,4 @@
 | mpuzyrev@gmail.com|
 | redfoer@gmail.com|
 | bc.dev2018@gmail.com|
+| merqrylive@gmail.com|
