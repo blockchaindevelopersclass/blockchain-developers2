@@ -24,3 +24,4 @@
 | redfoer@gmail.com|
 | bc.dev2018@gmail.com|
 | merqrylive@gmail.com|
+| akinfeeva@gmail.com |
