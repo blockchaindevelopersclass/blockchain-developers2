@@ -33,3 +33,4 @@
 | sergey.borzov@mail.ru|
 | nshpilevoy@yandex.ru|
 | grandmasterwanf@mail.ru|
+| anatoly.shamov@gmail.com|
