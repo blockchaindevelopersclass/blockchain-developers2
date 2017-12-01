@@ -34,3 +34,4 @@
 | nshpilevoy@yandex.ru|
 | grandmasterwanf@mail.ru|
 | anatoly.shamov@gmail.com|
+| klyaginsy@gmail.com |
