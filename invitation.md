@@ -3,6 +3,7 @@
 
 | email |
 | ------------- |
+| svolkov@bk.ru|
 | madorinkv@gmail.com|
 | dmitry.meshkov@iohk.io|
 | ciscoff@mail.ru|
