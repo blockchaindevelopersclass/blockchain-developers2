@@ -49,3 +49,4 @@
 | tebuchet@gmail.com | 
 | roman.latkin@mail.ru |
 | samara.maks@mail.ru |
+| cuter.exe@outlook.com |
