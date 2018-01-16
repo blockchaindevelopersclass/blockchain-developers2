@@ -54,3 +54,4 @@
 | aurus7@mail.ru|
 | fermarf@bk.ru|
 | skwmium@gmail.com|
+| malykhin.evdokim@gmail.com|
