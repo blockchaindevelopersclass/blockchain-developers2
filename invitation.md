@@ -55,3 +55,4 @@
 | fermarf@bk.ru|
 | skwmium@gmail.com|
 | malykhin.evdokim@gmail.com|
+| germanalitik@ya.ru|
