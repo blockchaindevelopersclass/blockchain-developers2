@@ -61,4 +61,3 @@
 | bereznitskiy.vlad@brainysoft.ru|
 | git@poprigushka.ru |
 | kar.amb@yandex.ru|
-
