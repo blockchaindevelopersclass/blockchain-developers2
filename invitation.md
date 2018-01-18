@@ -60,3 +60,4 @@
 | renat_mursalimov@mail.ru|
 | bereznitskiy.vlad@brainysoft.ru|
 | git@poprigushka.ru |
+| kar.amb@yandex.ru|
