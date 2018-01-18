@@ -59,3 +59,4 @@
 | ruslan.nagumanov@brainysoft.ru|
 | renat_mursalimov@mail.ru|
 | bereznitskiy.vlad@brainysoft.ru|
+| kar.amb@yandex.ru|
