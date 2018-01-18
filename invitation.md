@@ -58,3 +58,4 @@
 | germanalitik@ya.ru|
 | ruslan.nagumanov@brainysoft.ru|
 | renat_mursalimov@mail.ru|
+| bereznitskiy.vlad@brainysoft.ru|
