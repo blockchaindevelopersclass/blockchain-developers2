@@ -57,3 +57,4 @@
 | malykhin.evdokim@gmail.com|
 | germanalitik@ya.ru|
 | ruslan.nagumanov@brainysoft.ru|
+| renat_mursalimov@mail.ru|
