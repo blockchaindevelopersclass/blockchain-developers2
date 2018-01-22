@@ -63,3 +63,5 @@
 | kar.amb@yandex.ru|
 | petrklim@yandex.ru |
 | abegicheva@wavesplatform.com |
+| sketcompani@gmail.com |
+
