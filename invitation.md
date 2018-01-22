@@ -62,3 +62,4 @@
 | git@poprigushka.ru |
 | kar.amb@yandex.ru|
 | petrklim@yandex.ru |
+| abegicheva@wavesplatform.com |
