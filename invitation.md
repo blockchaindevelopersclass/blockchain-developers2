@@ -64,4 +64,4 @@
 | petrklim@yandex.ru |
 | abegicheva@wavesplatform.com |
 | sketcompani@gmail.com |
-
+| gapaus@gmail.com |
