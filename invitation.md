@@ -65,3 +65,4 @@
 | abegicheva@wavesplatform.com |
 | sketcompani@gmail.com |
 | gapaus@gmail.com |
+| razuvaev_va@mail.ru |
