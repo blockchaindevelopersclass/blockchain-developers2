@@ -1,11 +1,10 @@
-﻿Чтобы стать слушателем курса, создайте pull request в этот репозиторий, добавляющий ваш email в список ниже. Коммит должен быть подписан валидной GPG подписью, инструкция - https://github.com/blog/2144-gpg-signature-verification
+﻿Выкладываем сюда свои решения
 
-
-| email |
-| ------------- |
+| email | Task 1 - PoW | 
+| ------------- | ------------- |
 | svolkov@bk.ru|
 | madorinkv@gmail.com|
-| dmitry.meshkov@iohk.io|
+| dmitry.meshkov@iohk.io| [Scala](https://github.com/catena2w/hometasks/tree/week1) |
 | ciscoff@mail.ru|
 | rockinrats@yandex.ru|
 | xcat@bk.ru|
