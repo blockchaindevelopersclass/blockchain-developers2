@@ -42,7 +42,7 @@
 | asiat7715@gmail.com |
 | vladislav.l.samoylov@gmail.com |
 | kpeeem@gmail.com |
-| alexander.sles@yandex.ru |
+| alexander.sles@yandex.ru | [Scala](https://github.com/aslesarenko/hometasks/tree/week1) |
 | nik.writter@ya.ru |
 |iskanderus@gmail.com|
 | tebuchet@gmail.com | 
