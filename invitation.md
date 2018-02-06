@@ -17,7 +17,7 @@
 | b.siv@incoma.ru|
 | vestas@protonmail.com|
 | erezhepovrk@pochtabank.ru|
-| popovva@pochtabank.ru|
+| popovva@pochtabank.ru|[Scala](https://github.com/dundro/hometasks) |
 | baha296@mail.ru|
 | nickuspro@gmail.com|
 | valentin.po@gmail.com|
