@@ -30,7 +30,7 @@
 | agroshev@gmail.com |
 | shamil24@mail.ru|
 | nestevg5@gmail.com |
-| sergey.borzov@mail.ru|
+| sergey.borzov@mail.ru| [Scala](https://github.com/siemarell/hometasks)
 | nshpilevoy@yandex.ru|
 | grandmasterwanf@mail.ru|
 | anatoly.shamov@gmail.com| [Scala](https://github.com/anatoly-shamov/hometasks/tree/week1) |
