@@ -23,7 +23,7 @@
 | valentin.po@gmail.com|
 | mpuzyrev@gmail.com|
 | redfoer@gmail.com|
-| bc.dev2018@gmail.com|
+| bc.dev2018@gmail.com| [Python](https://github.com/bcdev2018/hometasks)
 | merqrylive@gmail.com|
 | akinfeeva@gmail.com |
 | poshliemail@googlemail.com |
