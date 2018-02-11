@@ -47,7 +47,7 @@
 |iskanderus@gmail.com|
 | tebuchet@gmail.com | 
 | roman.latkin@mail.ru |
-| samara.maks@mail.ru |
+| samara.maks@mail.ru | [Scala](https://github.com/mmarashan/hometasks) |
 | cuter.exe@outlook.com |
 | grigoriy.butovichev@gmail.com |
 | aurus7@mail.ru|
