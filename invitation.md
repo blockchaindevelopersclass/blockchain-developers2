@@ -1,10 +1,10 @@
 ﻿Выкладываем сюда свои решения
 
-| email | [Task 1 - PoW](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task1.md) | [Task 2 - Malleability](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task2.md) |
-| ------------- | ------------- | ------------- |
+| email | [Task 1 - PoW](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task1.md) | [Task 2 - Malleability](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task2.md) | [Task 3 - email](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task3.md) | [Task 4 - Bitcoin transaction](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task4.md) |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | svolkov@bk.ru|
 | madorinkv@gmail.com|
-| dmitry.meshkov@iohk.io| [Scala](https://github.com/catena2w/hometasks/tree/week1) | [Scala](https://github.com/catena2w/hometasks/tree/week1) |
+| dmitry.meshkov@iohk.io| [Scala](https://github.com/catena2w/hometasks/tree/week1) | [Scala](https://github.com/blockchaindevelopersclass/hometasks/blob/week2solution/src/main/scala/crypto/Curve25519SignatureForger.scala) | + | + |
 | ciscoff@mail.ru|
 | rockinrats@yandex.ru|
 | xcat@bk.ru|
