@@ -33,7 +33,7 @@
 | sergey.borzov@mail.ru| [Scala](https://github.com/siemarell/hometasks)
 | nshpilevoy@yandex.ru|
 | grandmasterwanf@mail.ru|
-| anatoly.shamov@gmail.com| [Scala](https://github.com/anatoly-shamov/hometasks/tree/week1) |
+| anatoly.shamov@gmail.com| [Scala](https://github.com/anatoly-shamov/hometasks/tree/week1) | [Scala](https://github.com/anatoly-shamov/hometasks/tree/week2) |
 | klyaginsy@gmail.com |
 | andiroot@gmail.com|
 | donjenya@gmail.com |
