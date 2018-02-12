@@ -1,6 +1,6 @@
 ﻿Выкладываем сюда свои решения
 
-| email | [Task 1 - PoW](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task1.md) | 
+| email | [Task 1 - PoW](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task1.md) | [Task 2 - Malleability](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task2.md)
 | ------------- | ------------- |
 | svolkov@bk.ru|
 | madorinkv@gmail.com|
