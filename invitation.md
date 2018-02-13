@@ -33,7 +33,7 @@
 | sergey.borzov@mail.ru| [Scala](https://github.com/siemarell/hometasks)
 | nshpilevoy@yandex.ru|
 | grandmasterwanf@mail.ru|
-| anatoly.shamov@gmail.com| [Scala](https://github.com/anatoly-shamov/hometasks/tree/week1) | [Scala](https://github.com/anatoly-shamov/hometasks/tree/week2) |
+| anatoly.shamov@gmail.com| [Scala](https://github.com/anatoly-shamov/hometasks/tree/week1) | [Scala](https://github.com/anatoly-shamov/hometasks/tree/week2) | + | [bitcoin](https://testnet.blockexplorer.com/tx/50226e504ccbbf590ea3342127d8fe56ff54ef28ebf461cbcae8c8685d306ec7) |
 | klyaginsy@gmail.com |
 | andiroot@gmail.com|
 | donjenya@gmail.com |
