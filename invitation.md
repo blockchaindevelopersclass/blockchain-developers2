@@ -68,4 +68,4 @@
 | aefimov.cube@gmail.com |
 | iokirichek@yandex.ru |
 | dbehterev@gmail.com |
-| amiromayer@gmail.com | | | + | | | |
+| amiromayer@gmail.com | | | + | | | [Waves](https://testnet.wavesexplorer.com/tx/3KKEnHrp24j2icDmubwGThTp1GBZnbhaQuJ3oHAaF8bs)|
