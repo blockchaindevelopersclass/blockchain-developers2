@@ -68,3 +68,4 @@
 | aefimov.cube@gmail.com |
 | iokirichek@yandex.ru |
 | dbehterev@gmail.com |
+| amiromayer@gmail.com | | | + | | | |
