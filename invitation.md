@@ -50,7 +50,7 @@
 | samara.maks@mail.ru | [Scala](https://github.com/mmarashan/hometasks) |
 | cuter.exe@outlook.com |
 | grigoriy.butovichev@gmail.com |
-| aurus7@mail.ru|
+| aurus7@mail.ru| [Scala](https://github.com/s-chepurnov/hometasks/tree/week1) | - | + | [Bitcoin](https://testnet.blockexplorer.com/tx/de546980e1e766977d5a7a6b8d652178b343b14cc60cac005ac2d7ba19db0e40) | [Multisig](https://testnet.blockexplorer.com/tx/aa68f12a752f6562cd5d81fe9cb6b04621a93525bd3fb96bc3c7826565c4706a) | [Altcoin](https://testnet.wavesexplorer.com/tx/BqyM7F26ekqGSc82FJ4U792JaaFfcq2s2cxt5UeScypX)
 | fermarf@bk.ru|
 | skwmium@gmail.com|
 | malykhin.evdokim@gmail.com|
