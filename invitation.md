@@ -11,7 +11,7 @@
 | gshiporin@gmail.com|
 | lks.ovechkin@yandex.ru|
 | dimos-d@yandex.ru|
-| sl888amg@gmail.com |
+| sl888amg@gmail.com | [Scala](https://github.com/cancel888/hometasks) | | + |
 | skor33393@yandex.ru|
 | sergeymasle@gmail.com|
 | b.siv@incoma.ru|
