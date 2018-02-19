@@ -10,7 +10,7 @@
 | xcat@bk.ru|
 | gshiporin@gmail.com|
 | lks.ovechkin@yandex.ru|
-| dimos-d@yandex.ru|
+| dimos-d@yandex.ru| [Scala](https://github.com/Dmdv/hometasks)
 | sl888amg@gmail.com | [Scala](https://github.com/cancel888/hometasks) | | + |
 | skor33393@yandex.ru|
 | sergeymasle@gmail.com|
