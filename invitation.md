@@ -23,7 +23,7 @@
 | valentin.po@gmail.com|
 | mpuzyrev@gmail.com|
 | redfoer@gmail.com|
-| bc.dev2018@gmail.com| [Python](https://github.com/bcdev2018/hometasks)
+| bc.dev2018@gmail.com| [Python](https://github.com/bcdev2018/hometasks/blob/master/Week1/PoW/powminer.py) | [Python](https://github.com/bcdev2018/hometasks/blob/master/Week2/SignatureForge/SignatureForger.py) | | [Bitcoin](https://testnet.blockexplorer.com/tx/6bc026ce31f56c651e9ba76298b335ebac173df208bc3e99af16657638ae6c98) |
 | merqrylive@gmail.com|
 | akinfeeva@gmail.com |
 | poshliemail@googlemail.com |
