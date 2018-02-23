@@ -1,4 +1,4 @@
-﻿Выкладываем сюда свои решения
+Выкладываем сюда свои решения
 
 | email | [Task 1 - PoW](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task1.md) | [Task 2 - Malleability](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task2.md) | [Task 3 - email](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task3.md) | [Task 4 - Bitcoin transaction](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task4.md) | [Task 5 - Bitcoin multisig](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task5.md) | [Task 6 - Altcoin transaction](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task6.md) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -17,7 +17,7 @@
 | b.siv@incoma.ru|
 | vestas@protonmail.com|
 | erezhepovrk@pochtabank.ru|
-| popovva@pochtabank.ru|[Scala](https://github.com/dundro/hometasks) |
+| popovva@pochtabank.ru|[Scala](https://github.com/dundro/hometasks) |[Scala](https://github.com/dundro/hometasks/tree/week2)|+|[bitcoin](https://testnet.blockexplorer.com/tx/e5a5b4df01e2af7b6dea75f50ff30a8a4a1c0ddf67ff317524540c876fc9af60)|+|+|
 | baha296@mail.ru|
 | nickuspro@gmail.com|
 | valentin.po@gmail.com|
