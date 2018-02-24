@@ -47,7 +47,6 @@
 |iskanderus@gmail.com|
 | tebuchet@gmail.com |
 | roman.latkin@mail.ru |
-
 | mmarashan | [Scala](https://github.com/mmarashan/hometasks/blob/master/src/main/scala/mining/PoWMiner.scala) | [Scala](https://github.com/mmarashan/hometasks/blob/master/src/main/scala/crypto/Curve25519SignatureForger.scala) | |[Python](https://github.com/mmarashan/hometasks/blob/master/src/main/python/bitcoin_tx.py) | [Python](https://github.com/mmarashan/hometasks/blob/master/src/main/python/bitcoin_multisig_tx.py) | 
 | cuter.exe@outlook.com |
 | grigoriy.butovichev@gmail.com |
