@@ -11,7 +11,7 @@
 | gshiporin@gmail.com|
 | lks.ovechkin@yandex.ru|
 | dimos-d@yandex.ru| [Scala](https://github.com/Dmdv/hometasks)
-| sl888amg@gmail.com | [Scala](https://github.com/cancel888/hometasks) | | + |
+| sl888amg@gmail.com | [Scala](https://github.com/cancel888/hometasks) | [Scala](https://github.com/cancel888/hometasks/blob/week2/src/main/scala/crypto/Curve25519SignatureForger.scala) | + |
 | skor33393@yandex.ru|
 | sergeymasle@gmail.com|
 | b.siv@incoma.ru|
