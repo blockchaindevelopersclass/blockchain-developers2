@@ -11,7 +11,7 @@
 | gshiporin@gmail.com|
 | lks.ovechkin@yandex.ru|
 | dimos-d@yandex.ru| [Scala](https://github.com/Dmdv/hometasks)
-| sl888amg@gmail.com | [Scala](https://github.com/cancel888/hometasks) | [Scala](https://github.com/cancel888/hometasks/blob/week2/src/main/scala/crypto/Curve25519SignatureForger.scala) | + |
+| sl888amg@gmail.com | [Scala](https://github.com/cancel888/hometasks) | [Scala](https://github.com/cancel888/hometasks/blob/week2/src/main/scala/crypto/Curve25519SignatureForger.scala) | + | [Bitcoin](https://testnet.blockexplorer.com/tx/16d7433438f5e4ee5eb499b50abe8a7f30012dc436aac8d1b7a9d15a3008c7c1)
 | skor33393@yandex.ru|
 | sergeymasle@gmail.com|
 | b.siv@incoma.ru|
