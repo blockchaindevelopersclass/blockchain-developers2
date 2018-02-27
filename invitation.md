@@ -1,7 +1,7 @@
 ﻿Выкладываем сюда свои решения
 
-| email | [Task 1 - PoW](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task1.md) | [Task 2 - Malleability](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task2.md) | [Task 3 - email](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task3.md) | [Task 4 - Bitcoin transaction](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task4.md) | [Task 5 - Bitcoin multisig](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task5.md) | [Task 6 - Altcoin transaction](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task6.md) |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| email | [Task 1 - PoW](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task1.md) | [Task 2 - Malleability](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task2.md) | [Task 3 - email](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task3.md) | [Task 4 - Bitcoin transaction](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task4.md) | [Task 5 - Bitcoin multisig](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task5.md) | [Task 6 - Altcoin transaction](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task6.md) | Task 7 - Mempool |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | svolkov@bk.ru|
 | madorinkv@gmail.com| [Scala](https://github.com/kmadorin/hometasks)
 | dmitry.meshkov@iohk.io| [Scala](https://github.com/catena2w/hometasks/tree/week1) | [Scala](https://github.com/blockchaindevelopersclass/hometasks/blob/week2solution/src/main/scala/crypto/Curve25519SignatureForger.scala) | + | [bitcoin](https://testnet.blockexplorer.com/tx/001742a2e4d819e250b6fbf8e69073e3c6a5835b27d6d36f8bcd99b128a9081c) | + | + |
@@ -33,7 +33,7 @@
 | sergey.borzov@mail.ru| [Scala](https://github.com/siemarell/hometasks)
 | nshpilevoy@yandex.ru|
 | grandmasterwanf@mail.ru|
-| anatoly.shamov@gmail.com| [Scala](https://github.com/anatoly-shamov/hometasks/tree/week1) | [Scala](https://github.com/anatoly-shamov/hometasks/tree/week2) | + | [bitcoin](https://testnet.blockexplorer.com/tx/50226e504ccbbf590ea3342127d8fe56ff54ef28ebf461cbcae8c8685d306ec7) |
+| anatoly.shamov@gmail.com| [Scala](https://github.com/anatoly-shamov/hometasks/tree/week1) | [Scala](https://github.com/anatoly-shamov/hometasks/tree/week2) | + | [bitcoin](https://testnet.blockexplorer.com/tx/50226e504ccbbf590ea3342127d8fe56ff54ef28ebf461cbcae8c8685d306ec7) ||| [Scala](https://github.com/anatoly-shamov/hometasks/tree/week3) |
 | klyaginsy@gmail.com |
 | andiroot@gmail.com|
 | donjenya@gmail.com |
