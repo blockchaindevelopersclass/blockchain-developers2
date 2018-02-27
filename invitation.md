@@ -67,5 +67,5 @@
 | razuvaev_va@mail.ru |
 | aefimov.cube@gmail.com |
 | iokirichek@yandex.ru |
-| dbehterev@gmail.com |[Scala] https://github.com/dbehterev/blockchaindev_hometasks/blob/master/src/main/scala/mining/PoWMiner.scala | | |
+| dbehterev@gmail.com |[Scala]( https://github.com/dbehterev/blockchaindev_hometasks/blob/master/src/main/scala/mining/PoWMiner.scala) | | |
 | amiromayer@gmail.com | | | + | [Bitcoin](https://testnet.blockexplorer.com/tx/ac26f31e12de2845a45774995bfffe0938533b3e687e7bef259c69ddce3686cd)| [Multisig](https://testnet.blockchain.info/tx/05b2cb94016279dc115ba031ce33046854a2dd907ecc6e1ba39348a4fb35f382)| [Waves](https://testnet.wavesexplorer.com/tx/3KKEnHrp24j2icDmubwGThTp1GBZnbhaQuJ3oHAaF8bs)|
