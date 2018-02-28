@@ -30,7 +30,7 @@
 | agroshev@gmail.com |
 | shamil24@mail.ru|
 | nestevg5@gmail.com |
-| sergey.borzov@mail.ru| [Scala](https://github.com/siemarell/hometasks) | [Scala](https://github.com/siemarell/hometasks/blob/master/src/main/scala/crypto/Curve25519SignatureForger.scala)
+| sergey.borzov@mail.ru| [Scala](https://github.com/siemarell/hometasks) | [Scala](https://github.com/siemarell/hometasks/blob/master/src/main/scala/crypto/Curve25519SignatureForger.scala)|||||[Scala](https://github.com/siemarell/hometasks/tree/week3)
 | nshpilevoy@yandex.ru|
 | grandmasterwanf@mail.ru|
 | anatoly.shamov@gmail.com| [Scala](https://github.com/anatoly-shamov/hometasks/tree/week1) | [Scala](https://github.com/anatoly-shamov/hometasks/tree/week2) | + | [bitcoin](https://testnet.blockexplorer.com/tx/50226e504ccbbf590ea3342127d8fe56ff54ef28ebf461cbcae8c8685d306ec7) ||| [Scala](https://github.com/anatoly-shamov/hometasks/tree/week3) |
