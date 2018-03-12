@@ -3,7 +3,7 @@
 | email | [Task 1 - PoW](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task1.md) | [Task 2 - Malleability](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task2.md) | [Task 3 - email](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task3.md) | [Task 4 - Bitcoin transaction](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task4.md) | [Task 5 - Bitcoin multisig](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task5.md) | [Task 6 - Altcoin transaction](https://github.com/blockchaindevelopersclass/blockchain-developers2/blob/master/tasks/task6.md) | Task 7 - Mempool |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | svolkov@bk.ru|
-| madorinkv@gmail.com| [Scala](https://github.com/kmadorin/hometasks)
+| madorinkv@gmail.com| [Scala](https://github.com/kmadorin/hometasks) | | | [bitcoin](https://test-insight.bitpay.com/tx/f2ee0fd5926cd7c68e728d9579cf7700923b93edbbb6f04a83cb0a0eca65bc69)| | |[Javascript](https://github.com/kmadorin/bd-blockchain-js)|
 | dmitry.meshkov@iohk.io| [Scala](https://github.com/catena2w/hometasks/tree/week1) | [Scala](https://github.com/blockchaindevelopersclass/hometasks/blob/week2solution/src/main/scala/crypto/Curve25519SignatureForger.scala) | + | [bitcoin](https://testnet.blockexplorer.com/tx/001742a2e4d819e250b6fbf8e69073e3c6a5835b27d6d36f8bcd99b128a9081c) | + | + |
 | ciscoff@mail.ru|
 | rockinrats@yandex.ru|
@@ -47,7 +47,7 @@
 |iskanderus@gmail.com|
 | tebuchet@gmail.com |
 | roman.latkin@mail.ru |
-| [mmarashan](https://github.com/mmarashan) | [Scala](https://github.com/mmarashan/hometasks/blob/master/src/main/scala/mining/PoWMiner.scala) | [Scala](https://github.com/mmarashan/hometasks/blob/master/src/main/scala/crypto/Curve25519SignatureForger.scala) | |[Python](https://github.com/mmarashan/hometasks/blob/master/src/main/python/bitcoin_tx.py) | [Python](https://github.com/mmarashan/hometasks/blob/master/src/main/python/bitcoin_multisig_tx.py) | |[Scala](https://github.com/mmarashan/scorex-blockchain-node-impl/tree/master/src/main/scala)| 
+| [mmarashan](https://github.com/mmarashan) | [Scala](https://github.com/mmarashan/hometasks/blob/master/src/main/scala/mining/PoWMiner.scala) | [Scala](https://github.com/mmarashan/hometasks/blob/master/src/main/scala/crypto/Curve25519SignatureForger.scala) | |[Python](https://github.com/mmarashan/hometasks/blob/master/src/main/python/bitcoin_tx.py) | [Python](https://github.com/mmarashan/hometasks/blob/master/src/main/python/bitcoin_multisig_tx.py) | |[Scala](https://github.com/mmarashan/scorex-blockchain-node-impl/tree/master/src/main/scala)|
 | cuter.exe@outlook.com |
 | grigoriy.butovichev@gmail.com |
 | aurus7@mail.ru| [Scala](https://github.com/s-chepurnov/hometasks/tree/week1) | - | + | [Bitcoin](https://testnet.blockexplorer.com/tx/de546980e1e766977d5a7a6b8d652178b343b14cc60cac005ac2d7ba19db0e40) | [Multisig](https://testnet.blockexplorer.com/tx/aa68f12a752f6562cd5d81fe9cb6b04621a93525bd3fb96bc3c7826565c4706a) | [Altcoin](https://testnet.wavesexplorer.com/tx/BqyM7F26ekqGSc82FJ4U792JaaFfcq2s2cxt5UeScypX)
